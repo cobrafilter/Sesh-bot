@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       = 29264299
+API_HASH     = "01715c2876c152106ceab149e4764ec5"
+BOT_TOKEN    = "6338422483:AAH7BjWYdqk7ehvhJJrS7n2NJc-EtOEH8dg"
+SESSION      = "BQG-iasAQdfV5V8Hek8mkAw1NLNN-jhQLbQQGA80fpwiNTDe0vTc4OZ3dF_aH2hCHw8F3ahfUXYpy-BKmFIBplG9n2fmqrZ84HVnm5JXRRyDPPrK7i_ZpgzdTMAO4kXXRvKi5f-rmLyBdZ0cXzTK6U6phOjg1ZFp7QpkvHjAJJJaO6IRhd0Yr8d7-SVjdalKznQmPrf_KcOEII3lVWBOB5eNS-9mzWhnKQ6Co6xNLBx7e1TVRc7l4WK-JEMXtQl2iIMWgn0EvHoPity9Y9nrT_iut2Bf3LbuI8jyTMG6TvO06fE8JNittFN4Agtxe4WoJSs6usKKCEZlYnYYy9_3hDUR1v-QcgAAAAFIIRHRAA"
+DATABASE_URI = "mongodb+srv://sunitech21:rMWpEgxIVTSItfN6@cluster0.9znzczr.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1001732181715
+ADMIN        = 5505094097
+CHANNEL      = "@imdb_updates"
